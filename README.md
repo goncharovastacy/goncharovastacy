@@ -1,4 +1,4 @@
-### Hi ✌🏻,
+### Hi ✌🏻!
 I'm Anastasia and I'm studying Front-end development 👩🏻‍💻
 
 - 💻 I’m currently working on HTML, CSS
