@@ -8,7 +8,7 @@ I'm Anastasia and I'm studying Front-end development 👩🏻‍💻
 - <a href="https://t.me/goncharovastacy" target="blank">Telegram</a>
 - <a href="gonchar.stacy@gmail.com" target="blank">E-mail</a>
 
-### Web Technologies:
+### Technologies:
 <div id=tools>
     <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg' width='35' alt='HTML5'/>
     <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg' width='35' alt='CSS3' />
