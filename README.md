@@ -1,6 +1,10 @@
 ### Hi ✌🏻!
 I'm Anastasia and I'm studying Front-end development 👩🏻‍💻
 
+<div id="header" align="start">
+  <img src="" width="200"/>
+</div>
+
 - 💻 I’m currently working on HTML, CSS
 - 🎓 I’m currently learning JavaScript
 
