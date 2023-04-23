@@ -1,4 +1,4 @@
-### Hi ✌🏻!
+### Hi ✌🏻
 I'm Anastasia and I'm studying Front-end development 👩🏻‍💻
 
  <div id="header" align="start">
