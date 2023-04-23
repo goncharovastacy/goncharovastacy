@@ -11,7 +11,7 @@ I'm Anastasia and I'm studying Front-end development 👩🏻‍💻
 
 ### Connect with me:
 - <a href="https://t.me/goncharovastacy" target="blank">Telegram</a>
-- <a href="gonchar.stacy@gmail.com" target="blank">E-mail</a>
+- <a href="mailto:gonchar.stacy@gmail.com" target="blank">E-mail</a>
 
 ### Technologies:
 <div id=tools>
