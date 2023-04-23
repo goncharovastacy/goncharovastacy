@@ -2,8 +2,9 @@
 I'm Anastasia and I'm studying Front-end development 👩🏻‍💻
 
  <div id="header" align="start">
-  <img src="https://tenor.com/VYcK.gif" width="200"/>
+  <img src="https://media.tenor.com/wuNjSEtJ1dwAAAAC/funny-animals-hard-worker.gif" width="200"/>
 </div>
+
 - 💻 I’m currently working on HTML, CSS
 - 🎓 I’m currently learning JavaScript
 - 💬 Ask me about programming, vegetarianism, playing bass and studying English
