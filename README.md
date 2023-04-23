@@ -7,6 +7,7 @@ I'm Anastasia and I'm studying Front-end development 👩🏻‍💻
 -->
 - 💻 I’m currently working on HTML, CSS
 - 🎓 I’m currently learning JavaScript
+- 💬 Ask me about programming, vegetarianism, playing bass and studying English
 
 ### Connect with me:
 - <a href="https://t.me/goncharovastacy" target="blank">Telegram</a>
