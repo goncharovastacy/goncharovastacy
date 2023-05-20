@@ -13,6 +13,8 @@ I'm Anastasia and I'm studying Front-end development 👩🏻‍💻
 - <a href="https://t.me/goncharovastacy" target="blank">Telegram</a>
 - <a href="mailto:gonchar.stacy@gmail.com" target="blank">E-mail</a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncharovastacy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Technologies:
 <div id=tools>
     <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg' width='35' alt='HTML5'/>
