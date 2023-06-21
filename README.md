@@ -1,12 +1,12 @@
 ### Hi ✌🏻
-I'm Anastasia and I'm studying Front-end development 👩🏻‍💻
+I'm Anastasia and I'm a Frontend Developer 👩🏻‍💻
 
  <div id="header" align="start">
   <img src="https://media.tenor.com/wuNjSEtJ1dwAAAAC/funny-animals-hard-worker.gif" width="200"/>
 </div>
 
-- 💻 I’m currently working on HTML, CSS
-- 🎓 I’m currently learning JavaScript
+- 💻 I’m currently working on JavaScript, HTML, CSS
+- 🎓 I’m currently learning JS improvements
 - 💬 Ask me about programming, vegetarianism, playing bass and studying English
 
 ### Connect with me:
