@@ -6,7 +6,7 @@ I'm Anastasia and I'm a Frontend Developer 👩🏻‍💻
 </div>
 
 - 💻 I’m currently working on JavaScript, HTML, CSS
-- 🎓 I’m currently learning JS improvements
+- 🎓 I’m currently learning JS improvements and React
 - 💬 Ask me about programming, vegetarianism, playing bass and studying English
 
 ### Connect with me:
