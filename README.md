@@ -5,8 +5,8 @@ I'm Anastasia and I'm a Frontend Developer 👩🏻‍💻
   <img src="https://media.tenor.com/wuNjSEtJ1dwAAAAC/funny-animals-hard-worker.gif" width="200"/>
 </div>
 
-- 💻 I’m currently working on JavaScript, HTML, CSS
-- 🎓 I’m currently learning JS improvements and React
+- 💻 I’m currently working on JavaScript and React
+- 🎓 I’m currently learning React and JS improvements
 - 💬 Ask me about programming, vegetarianism, playing bass and studying English
 
 ### Connect with me:
