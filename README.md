@@ -7,7 +7,7 @@ I'm Anastasia and I'm a Frontend Developer 👩🏻‍💻
 
 - 💻 I’m currently working on JavaScript and React
 - 🎓 I’m currently learning TypeScript
-- 💬 Ask me about vegetarianism, playing bass and studying English
+- 💬 Ask me about vegetarianism, anime, playing bass and studying English
 
 ### Connect with me:
 - <a href="https://t.me/goncharovastacy" target="blank">Telegram</a>
